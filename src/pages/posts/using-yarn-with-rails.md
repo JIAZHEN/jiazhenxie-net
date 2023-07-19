@@ -43,7 +43,7 @@ rails s
 
 You should be able to see the test page on [http://localhost:3000/static_pages/show](http://localhost:3000/static_pages/show) as below
 
-![StaticShow](http://i.imgur.com/8vi2Waz.png)
+![StaticShow](/assets/images/posts/8vi2Waz.png)
 
 Next to initialise yarn
 ```
@@ -83,7 +83,7 @@ Now can use awesome icons on our test page! In `app/views/static_pages/show.html
 
 Restart the server and visit [http://localhost:3000/static_pages/show](http://localhost:3000/static_pages/show), font-awesome is on the page! \o/
 
-![static page with font awesome](http://i.imgur.com/GY8zWjD.png)
+![static page with font awesome](/assets/images/posts/GY8zWjD.png)
 
 # Font path dependency
 On development it's now perfect. However, if we deploy to production (on Heroku in my case), the icon is not showing and has issue with incorrect font path. We need to overwrite `$fa-font-path` to point to the correct path.

@@ -12,7 +12,7 @@ With three scrum teams at Venntro, we are very reasonable to push code mutiple t
 
 However, with the google form nothing is handy (in this case). Developers have to manually fill in all fields, copy & paste the github commit SHA (and double check it is the correct). In the meantime, Ops maintain the form every time we add a new repo, and work with google script to save the request in google spreadsheet with no choice.
 
-![Imgur](http://i.imgur.com/OujN1RM.jpg)
+![Imgur](/assets/images/posts/OujN1RM.jpg)
 
 _Time is money_, hence nspired by [Tim Blair](http://tim.bla.ir/), [Sam Barnes](http://www.thesambarnes.com/) and [shipit](http://shopifyengineering.myshopify.com/blogs/engineering/79963972-introducing-shipit), I implemented ReleaseHub. And after months of improvement and internal use, we're excited to open-source our deployment tool, ReleaseHub. [demo](https://releasehub.herokuapp.com/).
 
@@ -23,7 +23,7 @@ In general ReleaseHub will save us up to 0.6763 hour (40 mins and 35 seconds), e
 
 On avergage we have 280 reqeusts per month, indicates that potentially we could save £1,325.5 monthly if this google form is replaced by a simple app! We are not creating revenues, but, the money we save means we can efficiate our work and the company investment. Overall, I believe it is really a tool that can helps the development team.
 
-![Imgur](../../../public/assets/images/posts/uwlSyQ0.png)
+![Imgur](/assets/images/posts/uwlSyQ0.png)
 
 
 ## Concolusion
