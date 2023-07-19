@@ -25,6 +25,7 @@ On avergage we have 280 reqeusts per month, indicates that potentially we could 
 
 ![Imgur](http://i.imgur.com/uwlSyQ0.png)
 
+
 ## Concolusion
 ReleaseHub is assuming that the dev team is using github as the source control and slack for internal team communication. Here is the demo link - [ReleaseHub](https://releasehub.herokuapp.com/), the [wiki pages](https://github.com/JIAZHEN/releasehub/wiki), and of course, the [github repository](https://github.com/JIAZHEN/releasehub)
 
