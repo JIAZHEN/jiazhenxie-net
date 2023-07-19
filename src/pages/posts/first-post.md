@@ -1,10 +1,17 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 1st Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-01T00:00:00Z
-imgSrc: '/assets/images/image-post7.jpeg'
-imgAlt: 'Image post 7'
+title: First post
+description: Yeah, the first blog post of mine
+pubDate: 2013-10-12T23:19:48Z
+imgSrc: '/assets/images/posts/1-chalkboard.jpg'
+imgAlt: 'First post'
 ---
+Woohoo, my blog is done.
 
-Full typography example at [this page](../sixth-post/).
+I will start to post my ruby learning in here. In the meantime, will also share my experiences. I hope this can help all of us to learn and to be progressed.
+
+This blog is supporting [github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown). It's better than `WYSIWYG`.
+
+It's late now in the UK, heading to the bed.
+
+Fingers crossed I can get more and more people to share opinions and learn together.
