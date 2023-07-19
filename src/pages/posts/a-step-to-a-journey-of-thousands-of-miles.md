@@ -11,8 +11,6 @@ I've been always thinking that a tech post should be a thing that is very profou
 
 But I am so wrong on that. In reality (by now), most of issues that are just normal, requiring to google and or read documentations to figure out. But I still gained lots of pleasures by resovling them. Therefore I start to record the issues that I meet and how I figure it out.
 
-![Imgur](http://i.imgur.com/KLgneIo.jpg)
-
 ## The first issue
 A few weeks ago I was building a dashboard in Rails. To increase the users' happniness I implement the avatar upload function by [Paperclips](https://github.com/thoughtbot/paperclip). Parts of the code look like:
 ```
