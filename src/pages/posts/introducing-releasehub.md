@@ -23,7 +23,7 @@ In general ReleaseHub will save us up to 0.6763 hour (40 mins and 35 seconds), e
 
 On avergage we have 280 reqeusts per month, indicates that potentially we could save £1,325.5 monthly if this google form is replaced by a simple app! We are not creating revenues, but, the money we save means we can efficiate our work and the company investment. Overall, I believe it is really a tool that can helps the development team.
 
-![Imgur](http://i.imgur.com/uwlSyQ0.png)
+![Imgur](/assets/images/posts/uwlSyQ0.png)
 
 
 ## Concolusion
