@@ -18,7 +18,7 @@ const Navbar = () => (
           icon={
             <img
               src={logo}
-              className="mx-auto h-12 w-12 rounded-full"
+              className="mr-2 h-12 w-12 rounded-full"
               alt="Logo"
             />
           }
@@ -28,8 +28,7 @@ const Navbar = () => (
 
       <NavMenu>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
-        <NavMenuItem href="/">GitHub</NavMenuItem>
-        <NavMenuItem href="/">Twitter</NavMenuItem>
+        <NavMenuItem href="https://github.com/jiazhen/">GitHub</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
