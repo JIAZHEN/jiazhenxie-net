@@ -3,8 +3,8 @@ layout: '@/templates/BasePost.astro'
 title: Building the Engineering Capacity Planner - Solving the Resource Planning Puzzle
 description: Engineering Manager Tools
 pubDate: 2024-09-04T23:00:00Z
-imgSrc: 'https://www.lambdatest.com/blog/wp-content/uploads/2022/07/image27-3-1.png'
-imgAlt: 'Fixing a plane whilst it's in the sky as engineering manager'
+imgSrc: 'https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4093803/cover_image/regular_1708x683/0309_Your_role_in_delivering_great_products_as_an_Engineering_Manager_Zara_Newsletter___blog-67996821bb55e5b0e2a07a80a6392013.png'
+imgAlt: "EM Capacity Planning"
 ---
 
 In my journey as a software engineer manager, I've witnessed the complexities of engineering resource planning firsthand. The challenges are multifaceted: managers must account for bank holidays, employee absences, holiday allowances, and sick leaves. Additionally, some team members split their time between management and individual contributions, further complicating the equation.
