@@ -7,14 +7,14 @@ imgSrc: 'https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_pag
 imgAlt: "EM Capacity Planning"
 ---
 
-In my journey as a software engineer manager, I've experienced the complexities of engineering resource planning firsthand. The challenges are multifaceted: managers must account for bank holidays, employee absences, holiday allowances, and sick leaves. Additionally, some team members split their time between management and individual contributions (like myself sometime), further complicating the equation.
+In my career as a software engineer manager, I've experienced the complexities of engineering resource planning firsthand. The challenges are multifaceted: managers must account for bank holidays, employee absences, holiday allowances, and sick leaves. Additionally, some team members split their time between management and individual contributions (like myself sometime), further complicating the equation.
 
 ## Why do we need to do resources plan?
 Wait a minute, what is resources plan and why do we need to do it in the first place? In definition from [Project Management Institute](https://www.pmi.org/learning/library/resource-planning-project-management-10567),
 
 > Resources plan is a process of determining the resources required to complete the project. It is a critical part of project management that involves estimating the resources needed to complete the project. Resources plan helps to ensure that the project is completed on time and within budget. It also helps to identify any potential risks that may arise during the project.
 
-Very formal. My version of it is, as an engineering manager, you need to know the capacity of your team, so that you can plan the work accordingly. You don't want to overcommit your team, and get them burned out. You also don't want to underutilize them, and miss the deadlines.
+Very formal. My version of it is, as a manager, doesn't even need to be in engineering, you need to know the capacity of your team, so that you can plan the work accordingly. You don't want to overcommit your team, and get them burned out. You also don't want to underutilize them, and miss the deadlines.
 
 
 ## The Problem
@@ -41,3 +41,6 @@ See this repository for the solution: https://github.com/JIAZHEN/em-capacity-app
 ![image info](./../../images/em-capacity-planning_img1.png)
 
 Now we can answer the question: "How much work can my team realistically achieve?" The Engineering Capacity Planner provides a clear answer. "From today to the end of the year, we have 1000 days of capacity, but we've already committed to 200 days of work."
+
+The app is called the Engineering Capacity Planner. The truth is, it's not just for engineering managers. It's for anyone who needs to plan resources effectively. It's for anyone who wants to know how much work their team can realistically achieve.
+
