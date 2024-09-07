@@ -19,10 +19,10 @@ const Hero = () => (
         <>
           As an experienced engineering manager with proven track records, I
           possess a diverse range of skills that contribute to successful team
-          leadership and project delivery. My strong leadership and
-          communication abilities enable me to effectively guide and inspire
-          teams, set clear goals, and cultivate a collaborative work
-          environment.
+          leadership and project delivery. With high EQ and technical prowess, I
+          excel in mentoring, problem-solving, and building high-performance
+          teams. My logical thinking drives innovation and impactful project
+          success.
         </>
       }
       avatar={
